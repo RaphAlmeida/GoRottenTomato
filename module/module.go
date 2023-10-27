@@ -1,7 +1,7 @@
 package module
 
 import (
-	"GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
 	"flag"
 	"fmt"
 	"strings"

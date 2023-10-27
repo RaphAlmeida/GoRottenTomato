@@ -1,10 +1,10 @@
 package crypto
 
 import (
-	"GoRottenTomato/krb5/crypto/md4"
-	"GoRottenTomato/krb5/crypto/rfc3961"
-	"GoRottenTomato/krb5/crypto/rfc4757"
-	"GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/md4"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/rfc3961"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/rfc4757"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
 	"bytes"
 	"crypto/hmac"
 	"crypto/md5"

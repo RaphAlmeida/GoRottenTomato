@@ -1,7 +1,7 @@
 package types
 
 import (
-	"GoRottenTomato/asn1"
+	"github.com/RaphAlmeida/GoRottenTomato/asn1"
 )
 
 type EncryptedData struct {

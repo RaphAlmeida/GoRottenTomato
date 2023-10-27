@@ -1,8 +1,8 @@
 package rfc3961
 
 import (
-	"GoRottenTomato/krb5/crypto/common"
-	"GoRottenTomato/krb5/crypto/etype"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/common"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/etype"
 	"crypto/cipher"
 	"crypto/des"
 	"crypto/hmac"

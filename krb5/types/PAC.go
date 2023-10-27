@@ -1,8 +1,8 @@
 package types
 
 import (
-	"GoRottenTomato/asn1"
-	"GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/asn1"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
 	"fmt"
 	"time"
 )

@@ -1,11 +1,11 @@
 package module
 
 import (
-	"GoRottenTomato/funcs"
-	"GoRottenTomato/krb5/crypto"
-	"GoRottenTomato/krb5/procedure"
-	"GoRottenTomato/krb5/ticket"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/funcs"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/ticket"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"encoding/base64"
 	"fmt"
 	"io"

@@ -1,11 +1,11 @@
 package module
 
 import (
-	"GoRottenTomato/krb5/AskTGT"
-	"GoRottenTomato/krb5/S4U2"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/procedure"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/AskTGT"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/S4U2"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"fmt"
 	"strings"
 )

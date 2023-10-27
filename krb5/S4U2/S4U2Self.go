@@ -1,11 +1,11 @@
 package S4U2
 
 import (
-	"GoRottenTomato/krb5/AskTGS"
-	"GoRottenTomato/krb5/crypto"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/procedure"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/AskTGS"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"encoding/base64"
 	"fmt"
 	"time"

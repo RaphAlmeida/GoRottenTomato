@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GoRottenTomato/module"
+	"github.com/RaphAlmeida/GoRottenTomato/module"
 	"os"
 )
 

@@ -1,8 +1,8 @@
 package rfc3962
 
 import (
-	"GoRottenTomato/krb5/crypto/etype"
-	"GoRottenTomato/krb5/crypto/pbkdf2"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/etype"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/pbkdf2"
 	"encoding/binary"
 	"encoding/hex"
 	"errors"

@@ -1,9 +1,9 @@
 package crypto
 
 import (
-	"GoRottenTomato/krb5/crypto/etype"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/crypto/etype"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"fmt"
 	"unsafe"
 )

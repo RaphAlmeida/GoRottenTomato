@@ -1,8 +1,8 @@
 package AskTGS
 
 import (
-	"GoRottenTomato/krb5/procedure"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"fmt"
 )
 

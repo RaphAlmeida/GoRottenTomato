@@ -1,7 +1,7 @@
 package module
 
 import (
-	"GoRottenTomato/krb5/AskTGT"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/AskTGT"
 	"fmt"
 	"io/ioutil"
 )

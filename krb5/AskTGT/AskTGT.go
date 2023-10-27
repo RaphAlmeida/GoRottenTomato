@@ -1,11 +1,11 @@
 package AskTGT
 
 import (
-	"GoRottenTomato/krb5/KRBError"
-	"GoRottenTomato/krb5/flags"
-	"GoRottenTomato/krb5/netWork"
-	"GoRottenTomato/krb5/procedure"
-	"GoRottenTomato/krb5/types"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/KRBError"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/flags"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/netWork"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/procedure"
+	"github.com/RaphAlmeida/GoRottenTomato/krb5/types"
 	"fmt"
 	"strings"
 )
